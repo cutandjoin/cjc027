@@ -1,5 +1,5 @@
 REM DIRINDEX 1\2\4,1\2\5,1\2\6,1\2\7,1\2\8,1\2\9,1\3\10,1\3\11
-REM DIRNAME cjc027,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11
 TITLE ""
 FILE "DISC-2Track09.mp3" MP3
   TRACK 01 AUDIO
